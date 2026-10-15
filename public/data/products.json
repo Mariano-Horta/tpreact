@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Cuchara de madera",
+    "description": "Excelente juego de cucharas de madera",
+    "price": 12500,
+    "image": "/img/Cucharas de madera.jpg",
+    "category": "Cubiertos rusticos"
+  },
+  {
+    "id": 2,
+    "name": "Juego de cubiertos",
+    "description": "Juego de cubiertos de excelente calidad",
+    "price": 120500,
+    "image": "/img/Juego de cubiertos.jpg",
+    "category": "Cubiertos"
+  },
+  {
+    "id": 3,
+    "name": "Platos decorados",
+    "description": "Platos decorados a mano",
+    "price": 58900,
+    "image": "/img/Platos decorados.jpg",
+    "category": "Vajilla decorada"
+  },
+  {
+    "id": 4,
+    "name": "Tazas con frases",
+    "description": "Tazas con frases",
+    "price": 35000,
+    "image": "/img/Tazas con frases.jpg",
+    "category": "Vajilla decorada"
+  }
+]
